@@ -2,9 +2,16 @@
 
 ![Screenshot from 2023-11-12 23-50-21](https://github.com/Vikash-8090-Yadav/IC-CLUB/assets/85225156/6b94e8bb-872c-47f5-b41b-0bee8c86fa32)
 
-# Internet Computer Club (IC-CLUB)
+For years I have wanted to participate in fund initiatives to invest in projects (startups and others), but the bureaucracy, the high requirements, and many other problems make it very difficult. And it is something that not only I experience, but also many other people who have a little money and want to support projects in the medium/long term.
 
-IC CLUB allows you to manage investment clubs, and to spread access to participate in investment funds to anyone, decentralized, agile, and without bureaucracy
+The exact size of the private investment fund market is difficult to determine, as there is no single, comprehensive source of data. However, it is estimated that this market has experienced significant growth in recent decades. According to Bain & Company's Global Private Equity Report 2021, assets under management in the private equity industry reached a record of approximately US$4.6 trillion in 2020. In addition to traditional private equity, there are also other types of private investment funds, such as hedge funds, venture capital funds, and private debt funds. Each of these segments has distinct characteristics and investment approaches.
+
+Therefore, through DAO (decentralized organizations) we can create structures so that anyone can invest, through investment clubs (by affinity of ideas, professional relationship, etc.) through Blockchain from anywhere in the world and with fewer requirements. That is why ICP  CLUB was born.
+
+
+
+
+# Internet Computer Club (IC-CLUB)
 
 ## Presentation: https://www.canva.com/design/DAGCxGq-jw8/g15VJ9h4MGvkW-FIB7AyNQ/edit?utm_content=DAGCxGq-jw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
