@@ -8,7 +8,7 @@ IC CLUB allows you to manage investment clubs, and to spread access to participa
 
 ## Presentation: https://www.canva.com/design/DAGCxGq-jw8/g15VJ9h4MGvkW-FIB7AyNQ/edit?utm_content=DAGCxGq-jw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Demo Video: https://youtu.be/z4vAa_jubRY
+## Demo Video:  https://youtu.be/JuwmwrLJMB4
 
 ## ICP Canister: https://h7t4t-tyaaa-aaaap-abqka-cai.icp0.io
 
