@@ -15,7 +15,7 @@ Therefore, through DAO (decentralized organizations) we can create structures so
 
 ## Presentation: https://www.canva.com/design/DAGCxGq-jw8/g15VJ9h4MGvkW-FIB7AyNQ/edit?utm_content=DAGCxGq-jw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Demo Video:  https://youtu.be/JuwmwrLJMB4
+## Demo Video:  https://youtu.be/z4vAa_jubRY?si=D1mCEYCsOVZdx48r
 
 ## ICP Canister: https://h7t4t-tyaaa-aaaap-abqka-cai.icp0.io
 
